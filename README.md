@@ -2,5 +2,6 @@
 解决国内用户安装python框架慢的问题
 需要用到wxpython库，其他python自带。
 效果如下：
-![main1](https://raw.githubusercontent.com/3469134108/main/main/pip.jpg “主界面”)  
-![main](https://raw.githubusercontent.com/3469134108/main/main/pip控制台.jpg “主界面”)  
+![image](https://github.com/3469134108/main/blob/main/pip.jpg)
+![image](https://github.com/3469134108/main/blob/main/pipshell.jpg)  
+需要自取，拿走不谢
